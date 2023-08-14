@@ -1,6 +1,3 @@
-spring:
-  applicaiton:
-    name: config_default
 eureka:
   instance:
     prefer-ip-address: true  # use the IP address of the host where the service is running instead of its hostname
